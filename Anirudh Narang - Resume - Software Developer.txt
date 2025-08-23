@@ -1,0 +1,53 @@
+Anirudh Narang
+Software Developer
+
+New Delhi
+9818924498
+
+Passionate worker and I can create new plans and define new programs.
+
+PERSONAL INFORMATION
+  Address: A-103/104 Second Floor Hari Nagar, New Delhi, 110064
+  Nationality: 
+  Driving License: 
+  Hobbies: Singing and Playing Guitar
+Product Researching
+
+SOCIAL PROFILES
+  * Linkedin: https://www.linkedin.com/in/anirudh-narang-0b6b87192
+  * Github: https://github.com/anirudh15-cyber
+
+SKILLS
+  ★★★★☆ Python
+  ★★★★☆ SQL
+  ★★★☆☆ Java
+  ★★★☆☆ Programming
+  ★★★☆☆ OpenCV
+
+EDUCATION
+  * August 2019 – August 2023
+    Bhagwan Parshuram Institute of Technology, New Delhi B.Tech
+
+    B.Tech. - ECE - A | Percentage: 86.84 / 100.00
+  * March 2018 – March 2019
+    Hansraj Model School, Punjabi Bagh , New Delhi 12th
+
+    12 th | CBSE | Percentage: 89.60 / 100.00
+  * March 2016 – March 2017
+    Hansraj Model School, Punjabi Bagh, New Delhi 10th
+
+    10 th | CBSE | Percentage: 98.00 / 100.00
+
+COURSES
+  * May 2021 – July 2021
+    Python, TwoWaits Technologies Pvt. Ltd.
+
+ACHIEVEMENTS
+  * Vice Chairperson IEEE BPIT, , 
+  * President Octave Music Society of BPIT, , 
+  * Cocubes Score - 610, , 
+PROJECTS
+  * Social Distancing Violation Detection System , , September 2022 – December 2022
+  * Custom Hand Gesture Recognition , , February 2023 – Present
+  * Face Swapping, , July 2021 – July 2021
+  * Virtual Camouflage, , July 2021 – July 2021
