@@ -47,4 +47,4 @@ Feel free to fork this repo and submit a pull request.
 
 ## 👨‍💻 Author  
 Developed by **Anirudh Narang**  
-🔗 [LinkedIn](https://linkedin.com/anirudh-narang) | [GitHub](https://github.com/anirudh15-cyber)  
+🔗 [LinkedIn](https://www.linkedin.com/in/anirudh-narang) | [GitHub](https://github.com/anirudh15-cyber)  
